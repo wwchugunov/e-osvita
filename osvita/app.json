@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "MVD",
+    "slug": "MVD",
+    "version": "0.0.3",
+    "orientation": "portrait",
+    "icon": "./img/logo_NAVS.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./img/logo_NAVS.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.angel234234234234.osvita"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.angel234234234234.osvita"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4c529725-2d8a-46a6-bc34-9827b874ea6e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4c529725-2d8a-46a6-bc34-9827b874ea6e"
+    }
+  }
+}
